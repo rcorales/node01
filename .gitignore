@@ -1,3 +1,4 @@
 auth.conf
 hiera.yaml
 puppet.conf
+/code
