@@ -1,2 +1,3 @@
-.conf
-.yaml
+auth.conf
+hiera.yaml
+puppet.conf
